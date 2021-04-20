@@ -8,6 +8,9 @@ namespace example_one
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("a new refactor!");
+
+            // we're done!
+            Console.WriteLine("Final change");
         }
     }
 }
