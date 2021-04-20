@@ -7,6 +7,7 @@ namespace example_one
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("a new refactor!");
         }
     }
 }
